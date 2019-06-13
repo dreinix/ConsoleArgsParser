@@ -8,7 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Visual Studio 2017 or newer
+
 Nuget Package manager 
+
 NetCore extension installed
 
 ### Installing
@@ -18,8 +20,6 @@ Get Visual Studio IDE at https://visualstudio.microsoft.com/downloads/
 Start installer and leave everything as default (It will automatically install all the requierements)
 
 Clone this project on your local machine
-
-Install the packages listed above
 
 Start coding!!!!!!
 
@@ -40,7 +40,7 @@ No explanation avaliable
 
 ## Built With
 
-* Powered by C# .NetCore
+* Powered by C# .NetCore 2.1
 
 ## Contributing
 
