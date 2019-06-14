@@ -1,5 +1,6 @@
 # ConsoleArgsParser
-Development tendency of apps course group project
+## CodeKatas
+Development tendency of apps course group project - CodeKatas, a library that helps you parse boolean flags from command line.
 
 ## Getting Started
 
