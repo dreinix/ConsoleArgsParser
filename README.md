@@ -59,3 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * This project was inspired by the Args Kata. You can find more information at http://codingdojo.org/kata/Args/
+
+## Blog Post
+
+[We wrote this blog post](https://medium.com/@ergerica76/intro-to-args-635d8a5f9ade?postPublishedType=initial) to introduce the tool. Check it out!
