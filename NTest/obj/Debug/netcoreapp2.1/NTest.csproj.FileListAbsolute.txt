@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NTest.deps.json
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NTest.runtimeconfig.json
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NTest.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NTest.dll
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\NTest.pdb
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\CodeKatas.dll
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\bin\Debug\netcoreapp2.1\CodeKatas.pdb
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.AssemblyInfo.cs
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.csproj.CopyComplete
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.dll
+C:\Users\USER\Desktop\Tendencias\ConsoleArgsParser\NTest\obj\Debug\netcoreapp2.1\NTest.pdb
